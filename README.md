@@ -16,5 +16,5 @@ Engineering Background: Strong problem-solving skills and attention to detail ho
 - 📫 How to reach me: https://www.linkedin.com/in/manishnegi30/ | nmanish194@gmail.com
 
 Current Projects                                                                                                     
-Building a portfolio of data analytics projects featuring SQL queries, Power BI dashboards, and Python-based analyses
+Building a portfolio of data analytics projects featuring SQL queries, Power BI dashboards, and Python-based analysis                                                  
 Exploring real-world datasets to uncover trends and tell compelling stories through data
